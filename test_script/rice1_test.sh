@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python  test/test.py --opt option/rice1-LGNet.yml --weights experiments/rice1/net_g_best.pth --input_dir datasets/RICE1/test/cloud  --input_truth_dir datasets/RICE1/test/reference/ --result_dir output/rice1-test
