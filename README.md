@@ -168,14 +168,10 @@ If you find the code helpful in your research or work, please cite the following
 @ARTICLE{wu2024cr,  
 	author={Ye Deng,  Zhihao Li, Peng Wang, Weiping Ding, Long Chen, Hangjun Ye, Weilong Wang, Xiaoshuai Hao},  
 	title={LGNet: Explicit Local-Global Feature Modeling for Cloud Removal}, 
-
-        journal={Applied Soft Computing},
-
-       pages={115401},
-
-       year={2026},
-
-       publisher={Elsevier}  
+    journal={Applied Soft Computing},
+    pages={115401},
+    year={2026},
+    publisher={Elsevier}，
 	pages={1-14}}  
 \`\`\`  
   
